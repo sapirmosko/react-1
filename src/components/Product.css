@@ -1,0 +1,33 @@
+.card {
+    color: rgb(209, 204, 204);
+    background-color: rgb(51, 49, 48);
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin: 1rem 0;
+    border-radius: 10px;
+}
+
+.card2 {
+    color: rgb(209, 204, 204);
+    background-color: rgb(51, 49, 48);
+    height: 400px;
+    width: 100%;
+    position: relative;
+    margin: 1rem 0;
+    border-radius: 10px;
+}
+
+.img {
+    position: absolute;
+    right: 0;
+    padding: 10px;
+    height: 180px;
+    width: 200px;
+}
+
+.description {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+}
