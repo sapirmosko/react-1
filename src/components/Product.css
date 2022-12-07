@@ -1,17 +1,7 @@
 .card {
-    color: rgb(209, 204, 204);
-    background-color: rgb(51, 49, 48);
-    height: 200px;
-    width: 100%;
-    position: relative;
-    margin: 1rem 0;
-    border-radius: 10px;
-}
-
-.card2 {
-    color: rgb(209, 204, 204);
-    background-color: rgb(51, 49, 48);
-    height: 400px;
+    color: rgb(44, 44, 44);
+    background-color: rgb(240, 237, 235);
+    height: 100px;
     width: 100%;
     position: relative;
     margin: 1rem 0;
@@ -22,12 +12,16 @@
     position: absolute;
     right: 0;
     padding: 10px;
-    height: 180px;
-    width: 200px;
+    height: 80px;
+    width: 80px;
 }
 
 .description {
     position: absolute;
     left: 0;
-    padding: 10px;
+    padding-left: 10px;
+}
+
+.description h2 {
+    color:rgb(236, 146, 42);
 }
